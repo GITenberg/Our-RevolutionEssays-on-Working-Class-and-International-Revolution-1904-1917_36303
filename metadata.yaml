@@ -1,0 +1,52 @@
+_repo: Our-RevolutionEssays-on-Working-Class-and-International-Revolution-1904-1917_36303
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Olgin, Moissaye J. (Moissaye Joseph)
+    aliases:
+    - Olgin, M.
+    - Novomissky, Moissaye Joseph
+    - Olgin, Moissaye Joseph
+    - Olgin, Moysheh
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '38187'
+    url: http://www.gutenberg.org/2009/agents/38187
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trotsky, Leon
+    aliases:
+    - Trotsky, Lev Davidovitch
+    - Trotzky, Leon Davidovich
+    - Троцкий, Лев Давидович
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '2030'
+    url: http://www.gutenberg.org/2009/agents/2030
+    wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
+description: ''
+gutenberg_issued: '2011-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- Russia'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- !lcsh 'Russia -- Politics and government -- 1894-1917'
+- !lcc 'DK'
+- !lcsh 'Russia -- Social conditions -- 1801-1917'
+- !lcsh 'Communism -- Russia'
+tableOfContents: Biographical notes -- The proletariat and the revolution -- The events
+  in Petersburg -- Prospects of a labor dictatorship -- The Soviet and the revolution
+  -- Preface to My round trip -- The lessons of the great year -- On the eve of a
+  revolution -- Two faces -- The growing conflict -- War or peace? -- Trotzky on the
+  platform in Petrograd.
+title: 'Our Revolution: Essays on Working-Class and International Revolution, 1904-1917'
+url: http://www.gutenberg.org/ebooks/36303
