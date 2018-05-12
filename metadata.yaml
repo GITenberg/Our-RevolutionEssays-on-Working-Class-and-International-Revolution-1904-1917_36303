@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2030
     wikipedia: http://en.wikipedia.org/wiki/Leon_Trotsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36303#Our-RevolutionEssays-on-Working-Class-and-International-Revolution-1904-1917
 gutenberg_issued: '2011-06-02'
 gutenberg_type: Text
 identifiers:
